@@ -1,6 +1,6 @@
-# coronatracker
+# COVID'19 Tracker
 
-Tracks corona cases in India
+Tracks COVID'19 cases in India using JSON parsing through covid19API
 
 ## Getting Started
 
